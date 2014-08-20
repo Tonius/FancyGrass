@@ -1,0 +1,17 @@
+[
+{
+  "modid": "fancygrass",
+  "name": "FancyGrass",
+  "description": "A mod that forces fancy grass sides to be enabled, even in fast graphics.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tonius11"],
+  "credits": "",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
